@@ -1,0 +1,22 @@
+<html>
+<title>Server side include demonstration</title>
+<body>
+<h2>Server-side include demonstration page</h2>
+You are visitor
+<!--#exec 
+cmd="/home/taylor/web/intuitive/shellhacks/examples/counter.sh"-->
+to this site. 
+<P>
+This page was last modified on       
+<!--#echo var="LAST_MODIFIED" -->
+according to the SSI LAST_MODIFIED variable.
+<P>
+Finally, the random tagline for this load is:
+<center><B>
+<!--#exec
+cmd="/home/taylor/web/intuitive/shellhacks/examples/randomquote.sh 
+samplequotes.txt"-->
+</B></center>
+</body>
+</html>
+

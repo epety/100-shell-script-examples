@@ -1,0 +1,42 @@
+<!-- footer information for APM system. -->
+
+<div style='margin-top: 10px;'>
+<table border='1' cellpadding='2' cellspacing='0' width="80%">
+ <tr><th colspan='4' bgcolor='#cccccc'>Password Manager Actions</th></tr>
+ <tr><td>
+  <form method="get" action="--myname--">
+  <table border='0'>
+    <tr><td><input type='hidden' name="a" value="A">
+     add user:</td><td><input type='text' name='u' size='10'>
+    </td></tr><tr><td>
+     password: </td><td> <input type='text' name='p' size='10'>
+     <input type='submit' value='+'>
+    </td></tr>
+  </table></form> 
+</td><td>
+  <form method="get" action="--myname--">
+  <table border='0'>
+    <tr><td><input type='hidden' name="a" value="U">
+      update</td><td><select name='u'>--options--</select>
+    </td></tr><tr><td>
+      password: </td><td><input type='text' name='p' size='10'>
+      <input type='submit' value='@'>
+    </td></tr>
+  </table></form> 
+</td><td>
+  <form method="get" action="--myname--"><input type='hidden' 
+    name="a" value="D">delete <select name='u'> --options-- </select>
+    <input type='submit' value='-'> </form>
+</td><td>
+  <form method="get" action="--myname--"><input type='hidden' 
+  name="a" value="L"><input type='submit' value='list all users'>
+  </form>
+</td></tr>
+</table>
+</div>
+
+<h5 style='background:#ccf'>From the book <a href="http://www.intuitive.com/wicked/">
+Wicked Cool Shell Scripts</a></h5>
+
+</body>
+</html>

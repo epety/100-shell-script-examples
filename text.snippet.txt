@@ -1,0 +1,8 @@
+Perhaps one of the most valuable uses of shell scripts is to fix
+your particular flavor of Unix and make it more like other flavors,
+to bring your commands into conformance or to increase consistency
+across different systems. The outsider view of Unix suggests a
+nice, uniform command-line experience, helped along by the existence
+and compliance with the POSIX standards for Unix, but anyone who's
+ever touched more than one computer knows how much they can vary
+within these broad parameters.
