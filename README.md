@@ -1,7 +1,7 @@
 100 shell script examples
 ====================================
 
-This is archive of shell scripts that i found on the interenet long time ago. I'm not the author. Original website is located here: http://intuitive.com/wicked/wicked-cool-shell-script-library.shtml (author wrote a [book](http://intuitive.com/wicked/index.shtml)).
+This is an archive of shell scripts that I found on the internet a long time ago. I'm not the author. The original website is located here: https://intuitive.com/wicked/wicked-cool-shell-script-library.shtml (author wrote a [book](https://intuitive.com/wicked/index.shtml)).
 
 Besides this, you can check out these repos too:
 - https://code.google.com/p/bsc/
@@ -11,4 +11,4 @@ Besides this, you can check out these repos too:
 
 
 Also, there is an interesting article about this that links many shell script examples:
-- http://dberkholz.com/2011/04/07/bash-shell-scripting-libraries/
+- https://dberkholz.com/2011/04/07/bash-shell-scripting-libraries/
