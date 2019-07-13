@@ -1,6 +1,6 @@
 module testproject1 {
 
-	# Java project for git practices....
+	# Java project for git practices.....
 
 }
 
