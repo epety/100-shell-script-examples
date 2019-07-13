@@ -25,3 +25,4 @@ lynx -source "$url$1" | \
 )
 
 exit 0
+changes in define file
