@@ -25,3 +25,5 @@ lynx -source "$url$1" | \
 )
 
 exit 0
+
+updated code...

@@ -36,3 +36,4 @@ lynx -source "${wxurl}$1" | \
   head -$size
 
 exit 0
+updated
