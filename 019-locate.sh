@@ -5,3 +5,5 @@
 locatedb="/var/locate.db"
 
 exec grep -i "$@" $locatedb
+#locate string input
+locate "string" 
