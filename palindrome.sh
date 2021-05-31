@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#nice palindrome script
 # specify palindrome possibility as args
 
 if [ $# -eq 0 ] ; then
